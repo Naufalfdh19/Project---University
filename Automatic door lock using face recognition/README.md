@@ -11,3 +11,4 @@ This project focuses on implementing a smart and secure automatic door lock syst
 - OpenCV and Dlib for computer vision and face detection.
 - Use python library called cvzone for face recognition models.
 - For camera still use a computer camera.
+- Motor for locking/unlocking the door and an ultrasonic sensor as the condition for the door to be locked.
